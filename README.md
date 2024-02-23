@@ -1,16 +1,16 @@
 <!--título-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hello World</h1></summary>
+    <summary><h1 style="display: inline-block">Olá Mundo</h1></summary>
 </div>
 
 <!-- Presentation -->
 <p>
   Olá 👋, sou Carlos Eduardo M. Pereira! Um apaixonado estudante de Desenvolvimento Web Fullsatck do Brasil.
 
-- 🌱 Atualmente estou cursando Desenvolvimento Web Fullsatck na Growdev
-
-🔭 Estou em busca da minha primeira oportunidade de emprego.
+  🌱 Atualmente estou cursando Desenvolvimento Web Fullsatck na Growdev
+  
+  🔭 Estou em busca da minha primeira oportunidade de emprego.
 </p>
 
 <!-- Dropdown -->
