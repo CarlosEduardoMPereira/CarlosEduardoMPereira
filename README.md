@@ -9,7 +9,7 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
   <p>
-    💬 Sou um entusiasta brasileiro da tecnologia, dedicado e apaixonado por inovação e aprendizado contínuo. Tenho 24 anos e sou formado em Engenharia Elétrica pela Faculdade Anhanguera. Atualmente, estou cursando 
+    💬 Sou um entusiasta brasileiro da tecnologia, dedicado e apaixonado por inovação e aprendizado contínuo. Tenho 24 anos e sou formado em Engenharia Elétrica. Atualmente, estou cursando 
        o programa de desenvolvimento Full Stack pela GrowDev, onde busco adquirir conhecimentos na área de TI para me aperfeiçoar profissionalmente. 
       Além disso, tenho planos de realizar uma pós-graduação na área de automação.
   </p>
