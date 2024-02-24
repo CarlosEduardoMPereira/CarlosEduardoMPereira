@@ -1,4 +1,4 @@
-## Olá. Eu sou Carlos Eduardo👋
+<h1>Olá. Eu sou Carlos Eduardo👋</h1>
 
   <ul>
       <li>🌱 Atualmente estou cursando Desenvolvimento Web Fullsatck na Growdev</li>
@@ -9,8 +9,9 @@
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
   <p>
-    💬 Sou um entusiasta brasileiro da tecnologia, dedicado e apaixonado por inovação e aprendizado contínuo. Tenho 24 anos e sou formado em Engenharia Elétrica pela Faculdade Anhanguera. Atualmente, estou cursando o programa de desenvolvimento Full Stack pela GrowDev, onde busco adquirir conhecimentos na área de TI para me aperfeiçoar profissionalmente. Além 
-       disso, tenho planos de realizar uma pós-graduação na área de automação.
+    💬 Sou um entusiasta brasileiro da tecnologia, dedicado e apaixonado por inovação e aprendizado contínuo. Tenho 24 anos e sou formado em Engenharia Elétrica pela Faculdade Anhanguera. Atualmente, estou cursando 
+       o programa de desenvolvimento Full Stack pela GrowDev, onde busco adquirir conhecimentos na área de TI para me aperfeiçoar profissionalmente. 
+      Além disso, tenho planos de realizar uma pós-graduação na área de automação.
   </p>
   <p>
     ⚡Gosto de ler, seja um bom livro, mangá ou quadrinhos, além de assistir filmes e jogar! Acredito que nossos interesses pessoais contribuem para uma percepção mais apurada das coisas e para a resolução de problemas. \o/
@@ -26,6 +27,7 @@
 <p align="left">
   <img align="center" src="https://github.com/VariableBee/VariableBee/assets/77739311/4e9f41af-6b57-49a7-b15a-74322e96b4d7" alt="Imagem">
 </p>
+
 
 ## 🛠 &nbsp; Conjunto de Tecnologias
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
